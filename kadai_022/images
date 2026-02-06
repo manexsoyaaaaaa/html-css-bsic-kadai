@@ -1,0 +1,5 @@
+<script>start("/Users/soumatsu/Public/Drop Box/HTML_CSS/kadai_022/images/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("cloudy.png","cloudy.png",0,89126,"87.0 kB",1770390943,"2026/02/06 10:15:43");</script>
+<script>addRow("rainy.png","rainy.png",0,83079,"81.1 kB",1770391459,"2026/02/06 10:24:19");</script>
+<script>addRow("sunny.png","sunny.png",0,79575,"77.7 kB",1770391453,"2026/02/06 10:24:13");</script>
